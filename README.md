@@ -5,7 +5,9 @@
 </div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=AmithShankar&color=blueviolet&style=flat-square&label=Profile+Views)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmithShankar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ---
 
@@ -43,6 +45,6 @@ A full-stack financial orchestrator that acts as a time machine for your money.
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/amith-shankar-576aa9164/) • [**View My Code**](https://github.com/AmithShankar?tab=repositories)
+🌐 [**Portfolio**](https://amithshankar.in/) • 💼 [**LinkedIn**](https://www.linkedin.com/in/amith-shankar-576aa9164/) • 💻 [**View My Code**](https://github.com/AmithShankar?tab=repositories)
 
 </div>
