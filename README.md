@@ -45,6 +45,8 @@ A full-stack financial orchestrator that acts as a time machine for your money.
 
 <div align="center">
 
-🌐 [**Portfolio**](https://amithshankar.in/) • 💼 [**LinkedIn**](https://www.linkedin.com/in/amith-shankar-576aa9164/) • 💻 [**View My Code**](https://github.com/AmithShankar?tab=repositories)
+🌐 <a href="https://amithshankar.in/" target="_blank"><b>Portfolio Website</b></a> • 
+💼 <a href="https://www.linkedin.com/in/amith-shankar-576aa9164/" target="_blank"><b>LinkedIn</b></a> • 
+💻 <a href="https://github.com/AmithShankar?tab=repositories" target="_blank"><b>View My Code</b></a>
 
 </div>
