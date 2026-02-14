@@ -4,10 +4,10 @@
 
 </div>
 
+
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmithShankar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmithShankar&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
