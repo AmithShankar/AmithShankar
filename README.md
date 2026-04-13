@@ -36,7 +36,7 @@
 ### 🚀 Featured Engineering
 
 #### 1. [Sampada - Expense Tracker](https://github.com/AmithShankar/Sampada-Expense-Tracker/) | [Live Demo](https://sampada.amithshankar.in/)
-A full-stack financial orchestrator that acts as a time machine for your money.
+A full-stack Expense Tracker that acts as a time machine for your money.
 * **The Build:** React + Spring Boot + MySQL.
 * **The Feat:** Engineered a custom analytics engine to visualize spending trends across **12-year timelines**, bridging the gap between daily expenses and long-term history. Optimized data grids with server-side pagination for high-volume handling.
 
