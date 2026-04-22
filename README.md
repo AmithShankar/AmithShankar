@@ -35,7 +35,12 @@
 
 ### 🚀 Featured Engineering
 
-#### 1. [Sampada - Expense Tracker](https://github.com/AmithShankar/Sampada-Expense-Tracker/) | [Live Demo](https://sampada.amithshankar.in/)
+#### 1. [ArogyaX - Hospital Management System](https://github.com/AmithShankar/ArogyaX) | [Live Demo](https://arogyax.amithshankar.in)
+A production-grade, full-stack ecosystem for hospital clinical and administrative operations.
+* **The Build:** Next.js 16 + FastAPI + PostgreSQL (SQLAlchemy Async).
+* **The Feat:** Architected a high-concurrency platform managing the **full clinical lifecycle** (Registration ➔ Charting ➔ Labs ➔ Billing) for 8 distinct staff roles. Engineered a high-performance **Async-first backend** and **SSR-driven frontend** that eliminates data-fetching waterfalls, ensuring sub-second response times for critical bedside workflows.
+
+#### 2. [Sampada - Expense Tracker](https://github.com/AmithShankar/Sampada-Expense-Tracker/) | [Live Demo](https://sampada.amithshankar.in/)
 A full-stack Expense Tracker that acts as a time machine for your money.
 * **The Build:** React + Spring Boot + MySQL.
 * **The Feat:** Engineered a custom analytics engine to visualize spending trends across **12-year timelines**, bridging the gap between daily expenses and long-term history. Optimized data grids with server-side pagination for high-volume handling.
