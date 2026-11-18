@@ -4,8 +4,6 @@
 
 <br>
 
-### Amith Shankar
-
 Full-Stack Developer. React, Next.js and TypeScript on the front end; FastAPI and Spring Boot behind it; PostgreSQL and PL/SQL for data; applied LLM and RAG work for banking teams.
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmithShankar&color=0A66C2&style=flat-square&label=Profile+Views)
